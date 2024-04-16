@@ -43,7 +43,7 @@
       }
 
       &--is-open {
-        .faq__questions__item__::after {
+        .faq__questions__item__question::after {
           content: "-";
         }
         .faq__questions__item__answer {
